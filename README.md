@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Harsh Raj
 
-Aspiring **Software Engineer** with a passion for **machine learning**, **data science**, and **IoT**. I love solving complex problems and building innovative software solutions that make an impact. Currently pursuing **B.Tech in Electronics and Communication Engineering** and **BS in Data Science and Applications**. 
+Aspiring **Engineer** with a passion for **machine learning**, **data science**, **VLSI(frontend)**, **Embeded Systems**, and **IoT**. I love solving complex problems and building innovative software and hardware solutions that make an impact. Currently pursuing **B.Tech in Electronics and Communication Engineering** and **BS in Data Science and Applications**. 
 
 ---
 
@@ -12,21 +12,21 @@ Aspiring **Software Engineer** with a passion for **machine learning**, **data s
   - **B.Tech in Electronics and Communication Engineering** at Shri Mata Vaishno Devi University.
   - **BS in Data Science and Applications** at IIT Madras.
 - 💡 I love to work on **innovative projects** like virtual assistants, health prediction devices, and IoT-integrated systems.
-- 🤖 Skilled in **Python**, **TensorFlow**, **OpenCV**, **IoT Development**, and **ML Model Deployment** on devices like ESP32.
-- 💬 Ask me about **AI, IoT, and Python programming**!
+- 🤖 Skilled in **Python**, **TensorFlow**, **OpenCV**, **IoT Development**, and **ML Model Deployment** on devices like ESP32, Raspberrypi.
+- 💬 Ask me about **AI/ML, IoT, and Python programming**!
 
 ---
 
 ### 🔧 Technologies & Tools
 
 **Languages:**  
-`Python`, `C`, `C++`, `SQL`, `MATLAB`, `HTML`, `CSS`
+`Python`, `C`, `C++`, `SQL`, `MATLAB`, `HTML`, `CSS`, `verilog`, `Embeded C`
 
 **Libraries & Frameworks:**  
-`TensorFlow`, `NumPy`, `Pandas`, `Matplotlib`, `OpenCV`, `Tkinter`
+`TensorFlow`, `NumPy`, `Pandas`, `Matplotlib`, `OpenCV`, `Tkinter`, `Scikit learn`, `seaborn`
 
 **Tools & Platforms:**  
-`Jupyter Notebook`, `PyCharm`, `VS Code`, `Git`, `MATLAB`, `Arduino`, `Raspberry Pi`
+`Jupyter Notebook`, `PyCharm`, `VS Code`, `Git`, `MATLAB`, `Arduino`, `Raspberry Pi`, any other µ-controller
 
 ---
 
