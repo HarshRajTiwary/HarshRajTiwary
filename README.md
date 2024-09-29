@@ -31,13 +31,13 @@ Aspiring **Software Engineer** with a passion for **machine learning**, **data s
 ---
 
 ### 🛠️ Projects
-
+- [**AI based chat-bot:**](https://github.com/HarshRajTiwary/ChatBot): Developed an AI based simple chat-bot for a construction website. 
 - [**Buddy – AI Virtual Assistant**](https://github.com/HarshRajTiwary/Buddy): Python-powered assistant using natural language processing and voice integration.
 - [**Voice Typing Tool**](https://github.com/HarshRajTiwary/Voice-Typing): A speech-to-text tool built in Python, showcasing my expertise in ML.
 - [**Health Prediction Device**](https://github.com/HarshRajTiwary/Health-Prediction-Device): IoT device that predicts health conditions based on heart rate, body temperature, and SpO2.
 - [**Indian Sign Language to Speech Device**](https://github.com/HarshRajTiwary/Indian-Sign-Language-to-speech-device): A solution to help the deaf and mute community by translating sign language to speech using TensorFlow and ESP32.
 
-Check out more of my projects [here](https://github.com/HarshRajTiwary).
+Check out more of my projects [here](https://github.com/HarshRajTiwary?tab=repositories).
 
 ---
 
